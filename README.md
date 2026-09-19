@@ -52,6 +52,16 @@ The high-risk monitoring page provides:
 
 ---
 
+📷 Dashboard Preview
+
+### Overview & Key Metrics
+
+![Overview Dashboard](screenshots/overview-dashboard.png)
+
+### High-Risk Monitoring
+
+![High Risk Monitoring](screenshots/high-risk-monitoring.png)
+
 📈 Key Dashboard Metrics
 
 | Metric | Description |
